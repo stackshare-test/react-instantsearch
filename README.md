@@ -2,7 +2,6 @@
   <a href="https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/">
     <img alt="React InstantSearch" src=".github/react-instantsearch-banner.png">
   </a>
-
   <p align="center">
     React InstantSearch is a library for building blazing fast search-as-you-type search UIs with <a href="https://www.algolia.com">Algolia</a>.
   </p>
